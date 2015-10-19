@@ -1,6 +1,6 @@
-# Gyro_HW
-In this simple application, originally we have a photo in the center. 
-If we double tap on the photo, it zooms to full screen size.
-There is a scroll bar at the bottom of the screen to indicate the location of the current view.
-If you rotate the phone on its Y-axis, the photo is moving as you rotate.
-Enjoy this little function!
+# Gyroscope Photo Viewer
+
+A simple gyroscope feature added when you view your photos.</br>
+There are basic gestures you can control on the photo, including double tap, pinch and pan gestures.</br>
+When the photo is zoomed in, you can tilt your phone left and right to scroll the photo to left and right.</br>
+Enjoy this fancy feature!
